@@ -1,0 +1,23 @@
+{
+  "name": "react-holygrail",
+  "version": "1.0.0",
+  "description": "Full Stack Holy Grail Application with Redis database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smolTypo/Full-Stack-Holy-Grail-App-Redis"
+  },
+  "author": "Gemma Fong",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/smolTypo/Full-Stack-Holy-Grail-App-Redis/issues"
+  },
+  "homepage": "https://github.com/smolTypo/Full-Stack-Holy-Grail-App-Redis#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "redis": "^4.0.1"
+  }
+}
