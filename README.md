@@ -1,2 +1,4 @@
-# Full-Stack-Holy-Grail-App-Redis
-Module 25 - Full Stack Holy Grail Application with Redis Database
+# Full Stack Holy Grail Application with Redis Database
+
+This is an exercise as part of Module 25 of MIT xPro Full Stack Bootcamp
+
